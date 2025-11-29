@@ -1,0 +1,5 @@
+Aplikacja wspiera studentów w organizacji nauki i zarządzaniu czasem, eliminując chaos i brak struktury w codziennych obowiązkach.
+Głównymi funkcjonalnościami są lista zadań, tygodniowy kalendarz, prosty system statystyk oraz przypomnienia, które pomagają utrzymać ciągłość nauki.
+Produkt jest projektowany z myślą o użytkownikach w wieku 18–25 lat, którzy potrzebują szybkich i intuicyjnych narzędzi do planowania zajęć i przygotowań.
+Interfejs będzie intuicyjny i zoptymalizowany pod urządzenia mobilne, aby umożliwić łatwe dostosowanie planu do zmieniających się obowiązków.
+Aplikacja umożliwi szybkie modyfikacje planu, monitorowanie postępów oraz redukcję rozproszenia uwagi dzięki prostym powiadomieniom i statystykom.

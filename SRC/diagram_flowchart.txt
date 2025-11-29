@@ -1,0 +1,30 @@
+# Diagram przypadków użycia (ASCII)
+# Zastąp aktorów i przypadki użycia zgodnie z opisem projektu.
+
+                     +--------------------------------------+
+                     |             [SYSTEM]                 |
+                     |                                      |
+                     |   ( Logowanie )                       |
+                     |      /\                                |
+                     |     /  \                               |
+                     |    /    \                              |
+                     |   /      \                             |
+    Użytkownik ---> o(          )<--- Administrator            |
+                     |   \      /                             |
+                     |    \    /                              |
+   Gość -----------> o( Przeglądanie )                        |
+                     |    \  /                               |
+                     |     \/                                |
+                     |   ( Rejestracja )                      |
+                     |                                      |
+                     |   ( Zarządzanie kontem ) <--- Admin   |
+                     |        |                             |
+                     |        |<<extend>>                   |
+                     |   ( Eksport raportów )                |
+                     +--------------------------------------+
+
+Legenda:
+- Aktorzy po lewej/prawej (np. Użytkownik, Gość, Administrator).
+- Owalne przypadki użycia przedstawione jako ( Nazwa ).
+- Relacje: --> powiązanie aktor->przypadek, |<<extend>>| wskazuje rozszerzenie.
+- Rozszerz diagram o konkretne przypadki z Twojego opisu (np. "Kupno produktu", "Zarządzanie zamówieniami", "Powiadomienia").
