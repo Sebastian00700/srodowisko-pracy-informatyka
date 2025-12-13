@@ -1,6 +1,6 @@
 ## Inspiracje projektowe - inspiracje.txt
 
-*Słowa / skojarzenia / pomysły:*
+# *Słowa / skojarzenia / pomysły:*
 - prostota, minimalizm, intuicyjność
 - personalizacja, profil użytkownika
 - automatyzacja zadań, skróty
@@ -12,7 +12,7 @@
 - bezpieczeństwo, uprawnienia
 - gamifikacja, nagrody, statystyki
 
-*Krótka lista elementów projektu:*
+# *Krótka lista elementów projektu:*
 - ekran główny z szybkim dostępem
 - panel ustawień i profil użytkownika
 - lista/zadania/katalog z filtrowaniem i sortowaniem
@@ -23,7 +23,7 @@
 - system ról i uprawnień
 - testy jednostkowe i dokumentacja
 
-*Wstępne dane wejściowe:*
+# *Wstępne dane wejściowe:*
 - lista kategorii: (np. produkty, zadania, notatki, projekty)
 - lista funkcji: (dodaj/edytuj/usuwaj, tagowanie, wyszukiwanie, powiadomienia)
 - formaty wymiany: JSON, CSV
@@ -31,7 +31,7 @@
 - priorytety: wysoka/średnia/niska
 - wymagania niefunkcjonalne: dostępność, wydajność, bezpieczeństwo
 
-*Lista źródeł pomysłu:*
+# *Lista źródeł pomysłu:*
 - własna potrzeba (upraszczanie codziennych zadań)
 - znajomy/mentor (feedback, realne przypadki użycia)
 - analiza istniejących narzędzi (luki i możliwości usprawnień)
@@ -39,6 +39,6 @@
 - artykuły i fora branżowe (trendy, best practices)
 - hackathon/wyzwanie edukacyjne
 
-*Krótka notatka końcowa:*
+# *Krótka notatka końcowa:*
 - priorytet: najpierw MVP z podstawowymi funkcjami, potem iteracje według feedbacku
 - możliwe rozszerzenia: synchronizacja między urządzeniami, AI-asystent do sugestii
